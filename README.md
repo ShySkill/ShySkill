@@ -3,7 +3,7 @@
 <h3 align="center">A teenage developer looking to sharpen his skills</h3>
 <h4 align="center">I'm ShySkill, also known as Dicestopper223, or the many aliases that I am known by. I am currently strengthening my skills in Java, to help with future possibilities.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dicestopper223&label=Profile%20views&color=0e75b6&style=flat" alt="dicestopper223" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dicestopper223&label=Profile%20views&color=0e75b6&style=flat" alt="dicestopper223" /> </p>
 
 
 </p>
