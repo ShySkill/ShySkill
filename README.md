@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm ShySkill</h1>
 <h3 align="center">I mainly use python</h3>
 <h4 align="center">I'm ShySkill, and I code in python a lot. I am currently strengthening my skills in Java.</h4>
-<h5 align="center">https://shyskill.xyz/</h4>
-
+<div align="center">
+  <a href="https://shyskill.xyz/" target="_blank" rel="noopener noreferrer">shyskill.xyz</a>
+</div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dicestopper223&label=Profile%20views&color=0e75b6&style=flat" alt="dicestopper223" /> </p>
 
